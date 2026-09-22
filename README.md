@@ -349,16 +349,20 @@ All charts use actual dataset values — no data is fabricated.
 ## 📸 Screenshots
 
 ### Dashboard — Overview
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](<img width="1042" height="602" alt="Screenshot 2026-09-22 231024" src="https://github.com/user-attachments/assets/cc837262-231f-433b-a800-3cb309956a06" />
+)
 
 ### Price Prediction
-![Price Prediction](screenshots/prediction.png)
+![Price Prediction]("<img width="1067" height="718" alt="Screenshot 2026-09-22 230956" src="https://github.com/user-attachments/assets/369fffea-1a98-44bd-9982-581b1ad87fdb" />
+")
 
 ### Data Analytics
-![Data Analytics](screenshots/analytics.png)
+![Data Analytics](<img width="1012" height="692" alt="Screenshot 2026-09-22 231229" src="https://github.com/user-attachments/assets/e2e03582-b4f3-4f06-ad9a-64f3e8138f91" />
+)
 
 ### Model Information
-![Model Information](screenshots/model_info.png)
+![Model Information](<img width="995" height="581" alt="Screenshot 2026-09-22 231252" src="https://github.com/user-attachments/assets/32c12fc4-2ccb-4338-9631-5429c1b027cd" />
+)
 
 ---
 
@@ -372,7 +376,7 @@ All charts use actual dataset values — no data is fabricated.
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/used-car-price-prediction.git
+git clone https://github.com/prajwal200622/used-car-price-prediction.git
 cd used-car-price-prediction
 ```
 
