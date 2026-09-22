@@ -349,20 +349,16 @@ All charts use actual dataset values — no data is fabricated.
 ## 📸 Screenshots
 
 ### Dashboard — Overview
-![Dashboard Overview](<img width="1042" height="602" alt="Screenshot 2026-09-22 231024" src="https://github.com/user-attachments/assets/cc837262-231f-433b-a800-3cb309956a06" />
-)
+![Dashboard Overview]("<img width="1042" height="602" alt="Screenshot 2026-09-22 231024" src="https://github.com/user-attachments/assets/cc837262-231f-433b-a800-3cb309956a06" />")
 
 ### Price Prediction
-![Price Prediction]("<img width="1067" height="718" alt="Screenshot 2026-09-22 230956" src="https://github.com/user-attachments/assets/369fffea-1a98-44bd-9982-581b1ad87fdb" />
-")
+![Price Prediction]("<img width="1067" height="718" alt="Screenshot 2026-09-22 230956" src="https://github.com/user-attachments/assets/369fffea-1a98-44bd-9982-581b1ad87fdb" />")
 
 ### Data Analytics
-![Data Analytics](<img width="1012" height="692" alt="Screenshot 2026-09-22 231229" src="https://github.com/user-attachments/assets/e2e03582-b4f3-4f06-ad9a-64f3e8138f91" />
-)
+![Data Analytics]("<img width="1012" height="692" alt="Screenshot 2026-09-22 231229" src="https://github.com/user-attachments/assets/e2e03582-b4f3-4f06-ad9a-64f3e8138f91" />")
 
 ### Model Information
-![Model Information](<img width="995" height="581" alt="Screenshot 2026-09-22 231252" src="https://github.com/user-attachments/assets/32c12fc4-2ccb-4338-9631-5429c1b027cd" />
-)
+![Model Information]("<img width="995" height="581" alt="Screenshot 2026-09-22 231252" src="https://github.com/user-attachments/assets/32c12fc4-2ccb-4338-9631-5429c1b027cd" />")
 
 ---
 
